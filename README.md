@@ -62,6 +62,8 @@ Firmware **v1.4.0** transforms the MPC Sample into an open-plugin platform while
 - [SampQOL OS](https://github.com/snarebes/SampQOL-OS) — Free SD-card quality-of-life mod adding 16 drum tracks, step sequencer, Track View, mixer with pad/track/submix inserts and sidechain, 128-slice chop, on-device stem separation, and 16 USB outputs. *(Requires firmware `1.3.0.12`.)*
 - [SampleBoot](https://github.com/pxcm/SampleBoot) — Non-destructive multi-OS boot selector from a single microSD card; choose between stock firmware, Melodee, SampQOL OS, or MPC Simple at power-on with the encoder. *(Tested on firmware `1.3.0.12`.)*
 - [Rhytmer OS](https://github.com/jazzyrhythmer/mpc-sample-rhythmer-os) — 24 engine entries, 69 complete kits and MPC Sample 1.4 support. Built on Melodee. [Website](https://jazzyrhythmer.github.io/mpc-sample/).
+- [DFOS](https://getdfos.com/) — An independent sampler OS for the MPC Sample with sixteen tracks, a grid editor, a mixer and a mastering chain.
+- [GRIDZILLA](https://www.thesoundfactorynj.com/gridzilla) — GRIDZILLA adds instruments, MIDI editing, song arrangement, a mixer and effect automation to the MPC.
 - [MPC Simple](https://sourceforge.net/projects/mpcsimple/) — Ground-up JUCE-based alternative OS aiming for a classic MPC workflow with modern enhancements and MPC 2.0 project loading.
 - [mpc-sample-emulator](https://github.com/Phenix2417/mpc-sample-emulator) — Run the MPC Sample firmware and test SD-card mods like SampleBoot and SampQOL inside a Linux environment (including Android's Debian Linux Terminal).
 
